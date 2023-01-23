@@ -24,8 +24,8 @@ int main(){
     int payoffmatrix[3][3]={{DRAW,WIN,LOSE},
                             {LOSE,DRAW,WIN},
                             {WIN,LOSE,DRAW}};
-
-    srand(SEED);
+// must not synchronize seed with randhandgen or they will always draw and never get updated!
+//    srand(SEED);
 
     while (scanf("%d",&ohand) != EOF){
         if (ohand<GU || ohand > PA) continue;
