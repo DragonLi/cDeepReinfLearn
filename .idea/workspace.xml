@@ -15,12 +15,7 @@
     <cargoProject FILE="$PROJECT_DIR$/ch1/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d1fe716-b1a6-4478-ae32-6badabbfce11" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/Cargo.lock" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/Cargo.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/Cargo.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch1/ch1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/ch1/ch1.rs" afterDir="false" />
-    </list>
+    <list default="true" id="7d1fe716-b1a6-4478-ae32-6badabbfce11" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,26 +38,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/liyongji/.cargo/registry/src/github.com-1ecc6299db9ec823/scan_fmt-0.2.6/src/lib.rs&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "last_opened_file_path": "/tmp/cDeepReinfLearn/ch2/q22.c",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "editing.templates",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="C/C++ File.ch1 j.c - Default">
+}]]></component>
+  <component name="RunManager" selected="C/C++ File.ch1 j.c">
     <configuration name="Ch1 Rust" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
       <option name="command" value="run" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$/ch1" />
@@ -80,23 +75,35 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch1 j.c - Default" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/ch1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cDeepReinfLearn" TARGET_NAME="j.c - Default" CONFIG_NAME="ch1 j.c - Default">
+    <configuration name="ch1 j.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/ch1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cDeepReinfLearn" TARGET_NAME="j.c" CONFIG_NAME="ch1 j.c">
       <option name="sourceFile" value="$PROJECT_DIR$/ch1/j.c" />
-      <option name="toolchainName" value="Default" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ch1 randhandgen.c - Default" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" PROGRAM_PARAMS="1 1 1" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/ch1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cDeepReinfLearn" TARGET_NAME="randhandgen.c - Default" CONFIG_NAME="ch1 randhandgen.c - Default">
+    <configuration name="ch1 randhandgen.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" PROGRAM_PARAMS="1 1 1" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/ch1" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cDeepReinfLearn" TARGET_NAME="randhandgen.c" CONFIG_NAME="ch1 randhandgen.c">
       <option name="sourceFile" value="$PROJECT_DIR$/ch1/randhandgen.c" />
-      <option name="toolchainName" value="Default" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch2 q21.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/ch2/" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cDeepReinfLearn" TARGET_NAME="q21.c" CONFIG_NAME="ch2 q21.c">
+      <option name="sourceFile" value="$PROJECT_DIR$/ch2/q21.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch2 q22.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$/ch2/" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cDeepReinfLearn" TARGET_NAME="q22.c" CONFIG_NAME="ch2 q22.c">
+      <option name="sourceFile" value="$PROJECT_DIR$/ch2/q22.c" />
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="C/C++ File.ch1 j.c - Default" />
-      <item itemvalue="C/C++ File.ch1 randhandgen.c - Default" />
+      <item itemvalue="C/C++ File.ch1 j.c" />
+      <item itemvalue="C/C++ File.ch2 q21.c" />
+      <item itemvalue="C/C++ File.ch2 q22.c" />
+      <item itemvalue="C/C++ File.ch1 randhandgen.c" />
       <item itemvalue="Cargo.Ch1 Rust" />
     </list>
   </component>
@@ -116,6 +123,7 @@
       <workItem from="1674445811987" duration="3186000" />
       <workItem from="1674470698203" duration="17000" />
       <workItem from="1674471009423" duration="13000" />
+      <workItem from="1674726566724" duration="7327000" />
     </task>
     <servers />
   </component>
